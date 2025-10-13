@@ -1,0 +1,9 @@
+fastapi
+pydantic
+pydantic-settings
+python-dotenv
+alpaca-trade-api
+binance-connector
+boto3
+pandas
+uvicorn
